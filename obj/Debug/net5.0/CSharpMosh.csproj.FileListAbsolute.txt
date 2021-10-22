@@ -1,0 +1,16 @@
+D:\Programming\CSharpMosh\bin\Debug\net5.0\CSharpMosh.exe
+D:\Programming\CSharpMosh\bin\Debug\net5.0\CSharpMosh.deps.json
+D:\Programming\CSharpMosh\bin\Debug\net5.0\CSharpMosh.runtimeconfig.json
+D:\Programming\CSharpMosh\bin\Debug\net5.0\CSharpMosh.runtimeconfig.dev.json
+D:\Programming\CSharpMosh\bin\Debug\net5.0\CSharpMosh.dll
+D:\Programming\CSharpMosh\bin\Debug\net5.0\ref\CSharpMosh.dll
+D:\Programming\CSharpMosh\bin\Debug\net5.0\CSharpMosh.pdb
+D:\Programming\CSharpMosh\obj\Debug\net5.0\CSharpMosh.csproj.AssemblyReference.cache
+D:\Programming\CSharpMosh\obj\Debug\net5.0\CSharpMosh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharpMosh\obj\Debug\net5.0\CSharpMosh.AssemblyInfoInputs.cache
+D:\Programming\CSharpMosh\obj\Debug\net5.0\CSharpMosh.AssemblyInfo.cs
+D:\Programming\CSharpMosh\obj\Debug\net5.0\CSharpMosh.csproj.CoreCompileInputs.cache
+D:\Programming\CSharpMosh\obj\Debug\net5.0\CSharpMosh.dll
+D:\Programming\CSharpMosh\obj\Debug\net5.0\ref\CSharpMosh.dll
+D:\Programming\CSharpMosh\obj\Debug\net5.0\CSharpMosh.pdb
+D:\Programming\CSharpMosh\obj\Debug\net5.0\CSharpMosh.genruntimeconfig.cache
