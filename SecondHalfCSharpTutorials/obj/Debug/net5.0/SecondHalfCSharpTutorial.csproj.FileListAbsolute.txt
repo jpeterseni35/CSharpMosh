@@ -1,0 +1,16 @@
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\bin\Debug\net5.0\SecondHalfCSharpTutorial.exe
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\bin\Debug\net5.0\SecondHalfCSharpTutorial.deps.json
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\bin\Debug\net5.0\SecondHalfCSharpTutorial.runtimeconfig.json
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\bin\Debug\net5.0\SecondHalfCSharpTutorial.runtimeconfig.dev.json
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\bin\Debug\net5.0\SecondHalfCSharpTutorial.dll
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\bin\Debug\net5.0\ref\SecondHalfCSharpTutorial.dll
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\bin\Debug\net5.0\SecondHalfCSharpTutorial.pdb
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\SecondHalfCSharpTutorial.csproj.AssemblyReference.cache
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\SecondHalfCSharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\SecondHalfCSharpTutorial.AssemblyInfoInputs.cache
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\SecondHalfCSharpTutorial.AssemblyInfo.cs
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\SecondHalfCSharpTutorial.csproj.CoreCompileInputs.cache
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\SecondHalfCSharpTutorial.dll
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\ref\SecondHalfCSharpTutorial.dll
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\SecondHalfCSharpTutorial.pdb
+D:\Programming\CSharpMosh\SecondHalfCSharpTutorial\SecondHalfCSharpTutorial\obj\Debug\net5.0\SecondHalfCSharpTutorial.genruntimeconfig.cache
